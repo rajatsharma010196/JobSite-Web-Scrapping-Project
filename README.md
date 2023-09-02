@@ -1,3 +1,2 @@
-# JobSite-Web-Scrapping-Project
-Web scrapping of a job site using BeautifulSoup library of Python. And then filtering out the information such as name of company, skills and date of posting of the latest jobs only which match the skills of the user. Making the program to run after a set time and exporting the result in a text file.
-
+**JobSite Web Scraping Project**
+In this project, we are utilizing Python's BeautifulSoup library to perform web scraping on a job website. The objective is to extract specific information, including company names, required skills, and the posting date of the latest job listings that match the user's specified skills. To ensure regular updates, the program is scheduled to run at predefined intervals, and the results are exported into a text file for easy access and reference.
